@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Leaner.<br>
+A Learner.<br>
 
 
 ## 🌐 Socials:
