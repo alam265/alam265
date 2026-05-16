@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend engineer with a strong focus on building scalable and efficient systems using Go and Python. Experienced in designing and optimizing data flows, working extensively with maps, data structures, and performance-critical logic. Skilled in developing reliable backend services, handling concurrency, and structuring clean, maintainable code. Interested in system design, distributed systems, and solving real-world engineering problems with practical, efficient solutions.<br>
+A Leaner.<br>
 
 
 ## 🌐 Socials:
